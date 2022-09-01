@@ -1,8 +1,7 @@
 <h1 align="center">▁ ▂ ▄ ▅ ▆ ▇ █ 👋 Hi, I’m @EgorSolomonov █ ▇ ▆ ▅ ▄ ▂ </h1>
 <h3 align="center">I'm a junior computer science developer</h3>
 
-&#128021;
-
+&#128054;
 
 
 
