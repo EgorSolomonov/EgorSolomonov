@@ -3,7 +3,7 @@
 
 <h4>- 👀 I’m interested in Fullstack technologies of web-developement </h4>
 <h4>- 🌱 I’m currently learning Typescript and making my knoledges in JavaScript deeper.</h4>
-<h4>- 💞️ I’m looking for a job, so please check all my repositories and click on github-pages to explore it, if you have any remarks, i will be glad to hear your remarks.</h4>
+<h4>- 💞️ I’m looking for a job, so please check all my repositories and click on github-pages to explore it, if you have any remarks, i will be glad to hear your feedback.</h4>
 
 <h4>- 📫 You can reach me with Telegram <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="18"/> below:</h4>
 
