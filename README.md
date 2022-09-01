@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I’m @EgorSolomonov</h1>
+<h1 align="center">▁ ▂ ▄ ▅ ▆ ▇ █ 👋 Hi, I’m @EgorSolomonov █ ▇ ▆ ▅ ▄ ▂ </h1>
+<h3 align="center">I'm a junior computer science developer</h3>
 - 👀 I’m interested in Fullstack technologies of web-developement
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
