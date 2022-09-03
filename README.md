@@ -15,7 +15,7 @@
 <h2>🐕</h2>
 
 
-<h5>My deployed study projects:</h5>
+🚀 <h3 align="center">My deployed study projects:</h3> 🚀
 
 -[Flower-Shop-Adaptive-layout](https://egorsolomonov.github.io/Flower-Shop-Adaptive-layout/)
 
