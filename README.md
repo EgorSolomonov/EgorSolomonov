@@ -17,7 +17,7 @@
 
 <h5>My deployed study projects</h5>
 
--[Flower-Shop-Adaptive-layout]([http://example.com](https://egorsolomonov.github.io/Flower-Shop-Adaptive-layout/))
+-[Flower-Shop-Adaptive-layout](https://egorsolomonov.github.io/Flower-Shop-Adaptive-layout/)
 
 
 <!---
