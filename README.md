@@ -19,7 +19,7 @@
 
 -[Flower-Shop-Adaptive-layout](https://egorsolomonov.github.io/Flower-Shop-Adaptive-layout/)
 
--[Material-UI-adaptive-landing-page Public](https://egorsolomonov.github.io/Material-UI-adaptive-landing-page/)
+-[Material-UI-adaptive-landing-page](https://egorsolomonov.github.io/Material-UI-adaptive-landing-page/)
 
 -[React_LandingPage](https://egorsolomonov.github.io/React_LandingPage/)
 
