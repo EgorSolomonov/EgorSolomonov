@@ -27,6 +27,8 @@
 
 -[MERN-social-network](https://reliable-chimera-64298e.netlify.app)
 
+-[Window-company-adaptive-layout](https://egorsolomonov.github.io/Window-company-adaptive-layout/)
+
 <!---
 EgorSolomonov/EgorSolomonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
