@@ -15,10 +15,17 @@
 <h2>🐕</h2>
 
 
-<h5>My deployed study projects</h5>
+<h5>My deployed study projects:</h5>
 
 -[Flower-Shop-Adaptive-layout](https://egorsolomonov.github.io/Flower-Shop-Adaptive-layout/)
 
+-[Material-UI-adaptive-landing-page Public](https://egorsolomonov.github.io/Material-UI-adaptive-landing-page/)
+
+-[React_LandingPage](https://egorsolomonov.github.io/React_LandingPage/)
+
+-[React+Typescript_TODO_list](https://egorsolomonov.github.io/Typescript_TODO_list/)
+
+-[MERN-social-network](https://reliable-chimera-64298e.netlify.app)
 
 <!---
 EgorSolomonov/EgorSolomonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
