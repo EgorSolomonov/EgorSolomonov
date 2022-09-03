@@ -17,9 +17,8 @@
 
 <h5>My deployed study projects</h5>
 
-- Flower-Shop-Adaptive-layout
+-[Flower-Shop-Adaptive-layout]([http://example.com](https://egorsolomonov.github.io/Flower-Shop-Adaptive-layout/))
 
-<a href="https://egorsolomonov.github.io/Flower-Shop-Adaptive-layout/"></a>
 
 <!---
 EgorSolomonov/EgorSolomonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
