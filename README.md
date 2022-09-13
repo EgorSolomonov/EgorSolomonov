@@ -30,7 +30,7 @@
 
 -[Window-company-adaptive-layout](https://egorsolomonov.github.io/Window-company-adaptive-layout/)
 
--[KIA-bootstrap-adaptive-landing-page](https://egorsolomonov.github.io/KIA-bootstrap-adaptive-landing-page/)
+-[KIA-bootstrap-adaptive-landing-page](https://egorsolomonov.github.io/KIA-bootstrap-adaptive-landing-page/)    ([Figma layout by Olga Solomonova](https://www.figma.com/file/iY2TpCsETaR4w1rDf3ycwD/Redesign-KIA?node-id=3%3A2))
 
 
 <!---
