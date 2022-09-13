@@ -30,6 +30,9 @@
 
 -[Window-company-adaptive-layout](https://egorsolomonov.github.io/Window-company-adaptive-layout/)
 
+-[KIA-bootstrap-adaptive-landing-page](https://egorsolomonov.github.io/KIA-bootstrap-adaptive-landing-page/)
+
+
 <!---
 EgorSolomonov/EgorSolomonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
