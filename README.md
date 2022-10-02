@@ -32,6 +32,7 @@
 
 -[KIA-bootstrap-adaptive-landing-page](https://egorsolomonov.github.io/KIA-bootstrap-adaptive-landing-page/)    ([Figma layout by Olga Solomonova](https://www.figma.com/file/iY2TpCsETaR4w1rDf3ycwD/Redesign-KIA?node-id=3%3A2))
 
+-[Restaurant-menu-react-app](https://egorsolomonov.github.io/Restaurant-menu-react-app/) 
 
 <!---
 EgorSolomonov/EgorSolomonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
