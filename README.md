@@ -1,6 +1,6 @@
 <h1 align="center">▁ ▂ ▄ ▅ ▆ ▇ █ 👋 Hi, I’m @EgorSolomonov █ ▇ ▆ ▅ ▄ ▂ </h1>
 
-<h4>- 👀 I’m interested in Fullstack technologies of web-developement </h4>
+<h4>- 👀 I’m interested in Fullstack technologies and web-developement </h4>
 
 <h4>- 📫 You can reach me with Telegram <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="18"/> below:</h4>
 
